@@ -7,7 +7,6 @@
 <p>Languages: Python, C++</p>
 <h2>Socials:</h2>
 <a href="https://www.linkedin.com/in/casen-ward-8083a832a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit-maurya-76a282204" height="30" width="40" /></a>
-<a href="
 <h2>Contact Information:</h2>
 <p>📲614-570-4208</p>
 <p>📧casenward@gmail.com</p>
