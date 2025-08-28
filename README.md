@@ -1,7 +1,7 @@
 <div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
 <h1 align="center">👋 Hi, I’m Casen Ward</h1>
 <img align="right" alt="Coding" width="500" style:"display: block" src="https://media.licdn.com/dms/image/D4D12AQFAdOrAQe1HEA/article-cover_image-shrink_720_1280/0/1709674661110?e=2147483647&v=beta&t=cXi9xoqDSrGR1XANMQyOXbhjIXhnmGcj5epolciGEF4">
-<p>Year: Freshman</p>
+<p>Year: Sophomore</p>
 <p>University: Ohio University</p>
 <p>Studying: Computer Science and Artificial Intelligence</p>
 <p>Languages: Python, C++</p>
