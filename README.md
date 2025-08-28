@@ -9,7 +9,7 @@
 <h2>Contact Information:</h2>
 <p>📲614-570-4208</p>
 <p>📧casenward@gmail.com</p>
-<img align="right" alt="Coding" width="500" style:"display: block" src="https://media.licdn.com/dms/image/D4D12AQFAdOrAQe1HEA/article-cover_image-shrink_720_1280/0/1709674661110?e=2147483647&v=beta&t=cXi9xoqDSrGR1XANMQyOXbhjIXhnmGcj5epolciGEF4">
+<img align="right" alt="Coding" margin-top="100" width="500" style:"display: block" src="https://media.licdn.com/dms/image/D4D12AQFAdOrAQe1HEA/article-cover_image-shrink_720_1280/0/1709674661110?e=2147483647&v=beta&t=cXi9xoqDSrGR1XANMQyOXbhjIXhnmGcj5epolciGEF4">
 <!---
 casenward/casenward is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
